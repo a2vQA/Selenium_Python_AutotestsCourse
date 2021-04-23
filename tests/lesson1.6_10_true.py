@@ -16,7 +16,7 @@ try:
     Phone = browser.find_element(By.CSS_SELECTOR, ".second_block>:nth-child(1)>input")
     Phone.send_keys("Number")
     Address = browser.find_element(By.CSS_SELECTOR, ".second_block>:nth-child(2)>input")
-    Address.send_keys(By.CSS_SELECTOR, "Address")
+    Address.send_keys("Address")
     Submit = browser.find_element(By.CSS_SELECTOR, "data_price.btn")
     Submit.click()
     time.sleep(1)
