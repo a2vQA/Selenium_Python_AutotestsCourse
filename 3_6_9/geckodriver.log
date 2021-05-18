@@ -1,0 +1,20 @@
+1619528558276	geckodriver	INFO	Listening on 127.0.0.1:54651
+1619528561300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\V7273~1.ART\\AppData\\Local\\Temp\\rust_mozprofilea3C1yZ"
+1619528561948	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619528567005	Marionette	INFO	Listening on port 54661
+1619528567362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1619528573457	Marionette	INFO	Stopped listening on port 54661
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619528609379	geckodriver	INFO	Listening on 127.0.0.1:54726
+1619528612366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\V7273~1.ART\\AppData\\Local\\Temp\\rust_mozprofilehEvj7u"
+1619528613040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619528617109	Marionette	INFO	Listening on port 54736
+1619528617190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1619528621968	Marionette	INFO	Stopped listening on port 54736
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
