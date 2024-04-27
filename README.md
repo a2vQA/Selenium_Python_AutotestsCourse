@@ -1,2 +1,2 @@
 # Selenium Java Autotest Course
-https://stepik.org/course/575/
+Homework for stepik course - https://stepik.org/course/575/
